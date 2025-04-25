@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>La banda de los Mugiwaras - Feed RSS</title>
+        <link>https://candid-gumdrop-8e80e1.netlify.app/</link>
+        <description>Actualización nivel de poder del Capitán Monkey D. Luffy</description>
+        <language>es</language>
+        <item>
+            <title>Artículo 1: Luffy consigue despertar su fruta.</title>
+            <link>https://candid-gumdrop-8e80e1.netlify.app/</link>
+            <description>
+                <![CDATA[
+                 <b>Gear Four</b><br>
+                <p>En este artículo vamos a ver como consiguió luffy el
+                despertar de su fruta y que habilidades ha obtenido.</p>
+
+                <p>Durante la pelea que se lleva a cabo entre Luffy y el yonkou Kaido,en uno
+                de los momentos más críticos de la pelea, más concretamente cuando kaido derrota a luffy y lo deja
+                prácticamente noqueado, éste consigue lo que se conoce como "el despertar de la fruta del diablo"</p>
+                <p>Este despertar consigue que Luffy sea capaz de contagiar el poder de su fruta
+                a todo lo que le rodee, dándole así un poder casi infinito, pudiendo conseguir 
+                básicamente cualquier cosa que pueda llegar a imaginarse.</p>
+                <p>Recordemos que la fruta de Luffy era la "gomu gomu nomi" que le otorgaba los poderes
+                de la goma. Después de este despertar, nos daremos cuenta que la frutal realmente es
+                de tipo Zoan Mitológica, considerado el tipo más poderoso dentro de las frutas.
+                El nombre de la fruta pasó a ser "hito hito nomi modelo nikka </p>
+                <p> Nika se podría identificar como el "Dios de la liberación" o "Dios del Sol", nombre 
+                que se ajusta perfectamente a los ideales de nuestro capitán</p>
+                <p>             <img src="https://i.pinimg.com/originals/93/9a/ea/939aead2774923168f37bec947cddb0a.gif" alt="FrutaLuffy" width="200" height="150"><br>
+</p>
+                ]]>
+            </description>
+            <pubDate>Thu, 24 Apr 2025 18:30:00 GMT</pubDate>
+        </item>
+        
+    </channel>
+</rss>

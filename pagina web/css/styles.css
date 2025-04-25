@@ -1,0 +1,81 @@
+body{
+    margin: 0;
+    background-image: url("../image/fondo.jfif");
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    background-color: rgba(255, 255, 255, 0.438);
+    background-repeat: no-repeat;
+    padding: 1rem;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    border-radius: 1.5rem;
+    padding: 1rem;
+    box-sizing: border-box;
+    overflow-x: hidden;
+    position: relative;
+
+    background-color: rgba(255, 255, 255, 0.4);
+
+}
+.contenedor_hijo{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    width: 100%; 
+      
+}
+.dropdown{
+    display: inline-block;
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+}
+.dropdown button{
+    background-color: hsl(0, 0%, 80%);
+    color: white;
+    padding: 10px 15px;
+    border:none;
+    cursor:pointer;
+    margin:0;
+    
+}
+.dropdown a{
+    display: block;
+    color: black;
+    text-decoration: none;
+    padding: 10px 15px;
+}
+.dropdown .content{
+    display:none;
+    position:absolute;
+    top: 100%;
+    right: 0;
+    background-color: hsl(0, 0%, 95%);
+    min-width: 100px;
+    box-shadow: 2px 2px 5px hsl(0, 0%, 0%, 0.8);
+    margin-top: 0;
+}
+
+.dropdown:hover .content{
+    display: block;
+}
+.dropdown:hover button{
+    background-color: hsl(0, 0%, 70%);
+}
+.dropdown a:hover{
+    background-color: hsl(0, 0%, 90%);
+}
+
+table {
+    background-color: rgba(255, 255, 255, 0.438);}
+
+.luffy{
+    background-color: rgba(255, 255, 255, 0.336);   
+    margin: 0;
+}
